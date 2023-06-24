@@ -1,5 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, My name is Satish NVRN</h1>
+<h3 align="center">I am a Lead Full stack engineer and currently working on React, Node, AWS Services, Python, and Rust. I'm also learning Web3, ethers and solidity currently</h3>
 
+<h3 align="center">Connect with me on:</h3>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/satish-nvrn-54a0141b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!--   <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
+<!--   <a href=""><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> -->
+</p>
 <!--
 **satishnvrn/satishnvrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
