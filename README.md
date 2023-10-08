@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, My name is Satish NVRN</h1>
-<h3 align="center">I am a Lead Full stack engineer and currently working on React, Node, AWS Services, Python, and Rust. I'm also learning Web3, ethers and solidity currently</h3>
+<h3 align="center">I am a Lead full-stack engineer currently working on React, Node, AWS Services, Python, and Rust. 
+    I'm a blockchain enthusiast and work on Web3, ethers, Solidity, and Rust to build Dapps and write Smart Contracts.
+    I'm also a Generative AI enthusiast and actively building POCs for ChatBots using OpenAI, Chainlit, Streamlit, and AWS Sagemaker. Some of the LLM models that I worked on are GPT-3.5, GPT-4, and Llama. I used Anthropic Foundation Models available from AWS Bedrock.
+</h3>
 
 <h3 align="center">Connect with me on:</h3>
 
