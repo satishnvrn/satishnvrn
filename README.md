@@ -2,7 +2,7 @@
 <h3 align="center">I am a Lead full-stack engineer currently working on React, Node, AWS Services, Python, and Rust.</h3>
 <h3 align="center">I'm also a Generative AI enthusiast, actively building POCs for ChatBots using various libraries in Python and Node. I worked on LLMs from OpenAI, MistralAI, Anthropic, LLama and other hugging face models.</h3>
 
-![Satish's public GitHub stats](https://github-readme-stats.vercel.app/api?username=satishnvrn&show_icons=true&theme=merko)
+** ![Satish's public GitHub stats](https://github-readme-stats.vercel.app/api?username=satishnvrn&show_icons=true&theme=merko)
 
 <h3 align="center">Connect with me on:</h3>
 
